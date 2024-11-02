@@ -26,4 +26,3 @@ This project uses the: [MIT](https://github.com/istbega/String-Methods-in-JavaSc
 
 To contact the author of the project, write to email behinmaksym@gmail.com
 
-[bega INST](https://www.instagram.com/istbega/?hl=ru)
