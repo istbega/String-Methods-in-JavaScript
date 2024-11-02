@@ -16,4 +16,7 @@ Each method comes with clear explanations and use cases, making it a great resou
 
 This repository is a beginner-friendly collection of JavaScript string methods, perfect for new developers or those looking to solidify their understanding of JavaScript basics. Inside, you'll find practical functions with examples to guide you through the essentials of string manipulation, making it easier to handle text in JavaScript applications.
 
+## License:
+This project uses the: [MIT](https://github.com/istbega/String-Methods-in-JavaScript/blob/main/LICENSE)
+
 To contact the author of the project, write to email behinmaksym@gmail.com
