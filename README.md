@@ -6,10 +6,13 @@ This repository provides a curated set of JavaScript methods designed to help be
 
 ## Technologies used:
 *  `Html`
-*  `Css`
 *  `JavaScript`
+
+![d241d3ba6d8a399be4d026fd575ff304](https://github.com/user-attachments/assets/863728d7-bb04-444d-ba8d-81005a6dc4f9)
 
 ## Scheme of work:
 Each method comes with clear explanations and use cases, making it a great resource whether you’re learning JavaScript or need quick, reusable code snippets. Discover ways to simplify your code, handle strings more effectively, and dive deeper into the fundamentals of JavaScript string manipulation!
 
+This repository is a beginner-friendly collection of JavaScript string methods, perfect for new developers or those looking to solidify their understanding of JavaScript basics. Inside, you'll find practical functions with examples to guide you through the essentials of string manipulation, making it easier to handle text in JavaScript applications.
 
+To contact the author of the project, write to email behinmaksym@gmail.com
