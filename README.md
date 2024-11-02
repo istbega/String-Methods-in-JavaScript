@@ -25,3 +25,6 @@ To get started, we need to create 2 types of files: index.html and index.js afte
 This project uses the: [MIT](https://github.com/istbega/String-Methods-in-JavaScript/blob/main/LICENSE)
 
 To contact the author of the project, write to email behinmaksym@gmail.com
+
+[bega INST](https://www.instagram.com/istbega/?hl=ru)
+[bega TG](https://t.me/istbegaa)
