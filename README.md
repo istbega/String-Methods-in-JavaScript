@@ -8,7 +8,8 @@ This repository provides a curated set of JavaScript methods designed to help be
 *  `Html`
 *  `JavaScript`
 
-![d241d3ba6d8a399be4d026fd575ff304](https://github.com/user-attachments/assets/863728d7-bb04-444d-ba8d-81005a6dc4f9)
+![method-string-javascript](https://github.com/user-attachments/assets/71546aaf-a12a-4051-aece-cf0a792e2fcd)
+
 
 ## Scheme of work:
 Each method comes with clear explanations and use cases, making it a great resource whether you’re learning JavaScript or need quick, reusable code snippets. Discover ways to simplify your code, handle strings more effectively, and dive deeper into the fundamentals of JavaScript string manipulation!
