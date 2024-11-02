@@ -1,4 +1,4 @@
-![JavaScript](https://img.shields.io/badge/JS-javascript-blue?JS=javascript)
+![JavaScript](https://img.shields.io/badge/-javascript-blue?logo=javascript)
 
 ## **Description:**
 JavaScript Methods for Beginners
